@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  # Hi there 👋 <br> Welcome to my git!🎈<br>
+  <h1 border-bottom="none"> Hi there 👋 <br> Welcome to my git!🎈</h1>
   
   <h4>📌My Tech Stack📌</h4>
   <br>
