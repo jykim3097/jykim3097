@@ -1,6 +1,7 @@
-<style type='text/css'>
+(setq markdown-xhtml-header-content
+  "<style type='text/css'>
   h1 {border-bottom:none;}
-</style>
+</style>")
 
 <div align="center">
   
