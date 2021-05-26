@@ -1,8 +1,3 @@
-(setq markdown-xhtml-header-content
-  "<style type='text/css'>
-  h1 {border-bottom:none;}
-</style>")
-
 <div align="center">
   
   <h1> Hi there 👋 <br> Welcome to my git!🎈</h1>
