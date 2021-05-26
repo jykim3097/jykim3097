@@ -1,7 +1,10 @@
+<style>
+  h1 {border-bottom:none;}
+</style>
 
 <div align="center">
   
-  <h1 style="border:0px"> Hi there 👋 <br> Welcome to my git!🎈</h1>
+  <h1> Hi there 👋 <br> Welcome to my git!🎈</h1>
   
   <h4>📌My Tech Stack📌</h4>
   <br>
