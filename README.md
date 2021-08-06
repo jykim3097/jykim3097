@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=jiyoung's%20github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JIYOUNG%20GIT&fontSize=90)
 
 <p align="right">
   <a href="https://hits.seeyoufarm.com">
