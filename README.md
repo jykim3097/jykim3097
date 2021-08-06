@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JIYOUNG%20GIT%20oh%20KIM&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JIYOUNG%20GITM&fontSize=80)
 
 <p align="right">
   <a href="https://hits.seeyoufarm.com">
