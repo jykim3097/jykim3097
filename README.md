@@ -17,3 +17,6 @@
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
   <br><br>
 </div>
+<br>
+<br>
+<br>
