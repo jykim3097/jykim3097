@@ -2,6 +2,8 @@
 ![jykim3097's GitHub stats](https://github-readme-stats.vercel.app/api?username=jykim3097&show_icons=true&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jykim3097&layout=compact&theme=vue&langs_count=6)
 
+![jykim3097's github stats](https://github-readme-stats.vercel.app/api?username=jykim3097&show_icons=true&theme=vue)
+[![jykim3097's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jykim3097&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=vue)](https://github.com/jykim3097)
 
 <div align="center">
   <h3> Hello~ Welcome to my git!🎈</h3>
