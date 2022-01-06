@@ -1,7 +1,7 @@
-<div align="center>
+
 ![jykim3097's GitHub stats](https://github-readme-stats.vercel.app/api?username=jykim3097&show_icons=true&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jykim3097&layout=compact&theme=vue&langs_count=6)
-</div>
+
 
 <div align="center">
   <h3> Hello~ Welcome to my git!🎈</h3>
