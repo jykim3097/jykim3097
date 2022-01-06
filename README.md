@@ -1,4 +1,4 @@
-<div style="align:center;float:left;">
+<div align="center">
   <h3> Hello~ Welcome to my git!🎈</h3>
   <h4> 🗨️ Language</h4>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> 
@@ -29,23 +29,6 @@
   <br><br>
 </div>
 
-<div style="align:center;float:left;">
-  <h4>📢 Tool </h4>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=Android&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
-  
-  <h4> 형상관리(Version Control) </h4>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
-  
-  <h4> 💬 Communication </h4>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
- 
-  <br><br>
-</div>
 ![jykim3097's GitHub stats](https://github-readme-stats.vercel.app/api?username=jykim3097&show_icons=true&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jykim3097&layout=compact&theme=vue&langs_count=6)
 
