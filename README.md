@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jykim3097&layout=compact&theme=default&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
   <br><br>
 </div>
 <br>
